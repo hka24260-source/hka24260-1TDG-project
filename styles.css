@@ -18,5 +18,9 @@ h1{
     text-align: center;
 }
 div {
-    font-size: 60px;
+    font-size: 50px;
+}
+.navbar img{
+    height: 40px;
+    width: auto;
 }
