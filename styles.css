@@ -18,9 +18,23 @@ h1{
     text-align: center;
 }
 div {
-    font-size: 50px;
+    font-size: 40px;
 }
 .navbar img{
     height: 40px;
     width: auto;
 }
+.container {
+    display:flex;
+    flex-direction:row;
+}
+img {
+    width: 15%
+}
+img{
+    height: 15%;
+}
+h1{
+    font-size: xx-large;
+}
+
