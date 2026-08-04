@@ -14,12 +14,13 @@
     text-align: center;
     padding: 14px 16px;
 }
+.navbar{
+    font: 50; 
+}
 h1{
     text-align: center;
 }
-div {
-    font-size: 40px;
-}
+
 .navbar img{
     height: 40px;
     width: auto;
@@ -37,4 +38,18 @@ img{
 h1{
     font-size: xx-large;
 }
+.technique1{
+    display: flex;
+    flex-direction: row;
+}
+.Techniques2{
+    display: flex;
+    flex-direction: row;
+}
 
+.technique1 img {
+    width: 20%;
+}
+.Techniques2 img {
+    width: 20%;
+}
