@@ -72,3 +72,15 @@ h1{
 h1{
     font-size: 350%;
 }
+body {
+    background-color: #fffef8;
+}
+h1 {
+    color: #a167c2;
+}
+.navbar ul li a:hover {
+    background-color:#fcfcfc;
+  }
+  .navbar a:visited{
+    color: #69145c;
+  }
