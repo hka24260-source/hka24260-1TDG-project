@@ -84,3 +84,15 @@ h1 {
   .navbar a:visited{
     color: #69145c;
   }
+  h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .Techniques2 img{
+    border-radius: 50px;
+  }
+  .technique1{
+    padding-bottom: 3.5%;
+  }
+  .technique1 img{
+    border-radius: 50px;
+  }
