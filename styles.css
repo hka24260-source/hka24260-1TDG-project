@@ -109,3 +109,12 @@ h1 {
     display: flex;
     flex-direction: row;
   }
+  .image-div{
+    flex: 0 0 calc(25% - 10px);
+    text-align: center;
+  }
+  .image-div img{
+    aspect-ratio: 1 /1;
+    object-fit: cover;
+    max-width: 100%;
+  }
