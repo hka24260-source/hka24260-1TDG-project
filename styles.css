@@ -4,43 +4,49 @@
     padding: 0;
     overflow: hidden;
 }
-  
+
 .navbar li {
     float: right;
 }
-  
+
 .navbar li a {
     display: block;
     text-align: center;
     padding: 14px 16px;
 }
-.navbar{
-    font: 50; 
+
+.navbar {
+    font: 50;
 }
-h1{
+
+h1 {
     text-align: center;
 }
 
-.navbar img{
+.navbar img {
     height: 40px;
     width: auto;
 }
+
 .container {
-    display:flex;
-    flex-direction:row;
+    display: flex;
+    flex-direction: row;
 }
+
 img {
     width: 15%
 }
 
-h1{
+h1 {
     font-size: xx-large;
 }
-.technique1{
+
+.technique1 {
     display: flex;
     flex-direction: row;
 }
-.Techniques2{
+
+.Techniques2 {
     display: flex;
     flex-direction: row;
 }
@@ -48,10 +54,12 @@ h1{
 .technique1 img {
     width: 20%;
 }
+
 .Techniques2 img {
     width: 20%;
 }
-.Club{
+
+.Club {
     display: flex;
     flex-direction: row;
 }
@@ -60,61 +68,73 @@ h1{
     display: flex;
     flex-direction: row;
 }
-.ClubA image{
+
+.ClubA image {
     width: 90%;
 }
-.navbar{
+
+.navbar {
     background-color: #f1a6c1;
-}
-.navbar{
     font-size: 200%;
 }
-h1{
+
+h1 {
     font-size: 350%;
+    color: #a167c2;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+p{
+    padding:10px;
+}
+
 body {
     background-color: #fffef8;
 }
-h1 {
-    color: #a167c2;
-}
+
+
 .navbar ul li a:hover {
-    background-color:#fcfcfc;
-  }
-  .navbar a:visited{
+    background-color: #fcfcfc;
+}
+
+.navbar a:visited {
     color: #69145c;
-  }
-  h1{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  }
-  .Techniques2 img{
+}
+
+
+
+.Techniques2 img {
     border-radius: 50px;
-  }
-  .technique1{
+}
+
+.technique1 {
     padding-bottom: 3.5%;
-  }
-  .technique1 img{
+}
+
+.technique1 img {
     border-radius: 50px;
-  }
+}
 
-  .image-div img {
+.image-div img {
     width: 100%;
-  }
+}
 
-  .image-div {
+.image-div {
     width: 35%;
-  }
+}
 
-  .photos {
+.photos {
     display: flex;
     flex-direction: row;
-  }
-  .image-div{
+}
+
+.image-div {
     flex: 0 0 calc(25% - 10px);
     text-align: center;
-  }
-  .image-div img{
+}
+
+.image-div img {
     aspect-ratio: 1 /1;
     object-fit: cover;
     max-width: 100%;
-  }
+}
