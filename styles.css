@@ -19,10 +19,6 @@
     font: 50;
 }
 
-h1 {
-    text-align: center;
-}
-
 .navbar img {
     height: 40px;
     width: auto;
@@ -37,9 +33,6 @@ img {
     width: 15%
 }
 
-h1 {
-    font-size: xx-large;
-}
 
 .technique1 {
     display: flex;
@@ -79,7 +72,8 @@ h1 {
 }
 
 h1 {
-    font-size: 350%;
+    text-align: center;
+    font-size: 500%;
     color: #a167c2;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -137,4 +131,7 @@ body {
     aspect-ratio: 1 /1;
     object-fit: cover;
     max-width: 100%;
+}
+p{
+    font-size: x-large;
 }
